@@ -28,7 +28,7 @@ Forkable demo app with build, test, publishing and demos pre-configured.
 
 ### [Example](./docs/example.md)
 
-A full example of a cross-domain component using xcomponent
+A full example of a cross-domain component using X.component
 
 -----
 
