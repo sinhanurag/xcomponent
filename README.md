@@ -10,7 +10,7 @@ A cross-domain component toolkit, supporting:
 - Call callbacks natively from the child window without worrying about post-messaging or cross-domain restrictions
 - Create and expose components to share functionality from your site to others!
 
-It's 'data-down, actions up', but 100% cross-domain! You can even use it directly with libraries like React and Angular.
+It's 'data-down, actions up', but 100% cross-domain. You can even use it directly with libraries like React and Angular.
 
 -----
 
